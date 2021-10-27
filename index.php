@@ -36,7 +36,7 @@
      echo $mango->getWeight();
      $banana = new Banana();
      echo $banana->getColor();
-     echo $banana->weight;
+     //echo $banana->weight;
      echo "Total number is :" . Fruits::$numbers;
 
     ?>
